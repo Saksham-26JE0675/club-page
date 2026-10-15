@@ -1,3 +1,4 @@
 # Music Club
-# This page gives you the feel you will get after joining our music club
-# Saksham Tyagi -  26JE0675
+This page makes you to feel music in a way you have never experienced before.
+<br>
+NAME: Saksham Tyagi Admission Number: 26JE0675
